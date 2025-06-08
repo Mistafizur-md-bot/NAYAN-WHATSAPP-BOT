@@ -77,6 +77,7 @@ module.exports = {
         "আসসালামু আলাইকুম বলেন আপনার জন্য কি করতে পারি",
         "আমাকে এতো না ডেকে বস নয়নকে একটা গফ দে 🙄",
         "jang hanga korba",
+        " hkjgbmjj",
         "jang bal falaba🙂",
       ];
 
